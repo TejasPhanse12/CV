@@ -1,3 +1,3 @@
 # Resume with meta tags 
-https://resumemeta.netlify.app
+https://tejasphansecv.netlify.app
 (Host link)
